@@ -14556,6 +14556,12 @@
     githubId = 44636701;
     name = "Niklas Steffen";
   };
+  mayrf = {
+    email = "70516376+mayrf@users.noreply.github.com";
+    github = "mayrf";
+    githubId = 70516376;
+    name = "mayrf";
+  };
   mazurel = {
     email = "mateusz.mazur@yahoo.com";
     github = "Mazurel";
